@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Passwords and keys
+.env
+src/services/api-client.ts
